@@ -1,0 +1,3 @@
+2023-05-27 20:18:08,927 - INFO      - SR.py    : 55 line - Sub_expression: 4.539426*x2*x4
+2023-05-27 20:18:08,945 - INFO      - SR.py    : 64 line - The valid R2 is 0.3263
+2023-05-27 20:18:08,952 - INFO      - SR.py    : 75 line - The test R2 is 0.4969
